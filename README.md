@@ -10,3 +10,16 @@ Python öğrenme sürecimde Nesne Yönelimli Programlama (OOP) prensiplerini pek
 ## 🛠️ Kullanılan Teknolojiler
 - **Dil:** Python 3
 - **Konseptler:** Class/Object (OOP), List Yapıları, Konsol Menü Yönetimi (CLI)
+
+- ## 📚 Öğrenilen Konular
+
+- Class ve Object yapısı
+- `__init__` metodu
+- Instance attributes
+- Instance methods
+- Listeler ve listeler üzerinde döngüler
+- Koşullu ifadeler
+- `while` döngüsü
+- Kullanıcıdan veri alma (`input`)
+- Fonksiyonlara parametre gönderme
+- f-string kullanımı
